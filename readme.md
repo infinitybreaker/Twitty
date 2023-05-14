@@ -14,7 +14,7 @@ Twitty is a Node.js application built using Puppeteer, a headless Chrome Node.js
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<YourUsername>/twitty.git
+git clone https://github.com/infinitybreaker/twitty.git
 ```
 
 2. Navigate to the project directory
