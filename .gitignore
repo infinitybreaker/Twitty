@@ -1,7 +1,0 @@
-node_modules
-public/config/settings.js
-src/config/settings.ts
-public
-package-lock.json
-.*
-!/.gitignore
