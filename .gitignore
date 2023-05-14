@@ -1,0 +1,4 @@
+node_modules
+tweets.txt
+public/config/settings.js
+src/config/settings.ts
